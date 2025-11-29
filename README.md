@@ -1,3 +1,1 @@
-📡 MQTT + Paho IoT Lab
-
-Using Mosquitto Broker + Python Paho
+# 📡 MQTT + Paho IoT Lab  
